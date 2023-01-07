@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_SUTModelStoreContainer" CdmEntityContainer="DB_SUTEntities">
+    <EntitySetMapping Name="Tb_inek">
+      <EntityTypeMapping TypeName="DB_SUTModel.Tb_inek">
+        <MappingFragment StoreEntitySet="Tb_inek">
+          <ScalarProperty Name="İnİD" ColumnName="İnİD" />
+          <ScalarProperty Name="İnekAdı" ColumnName="İnekAdı" />
+          <ScalarProperty Name="Kulak_etiketi" ColumnName="Kulak etiketi" />
+          <ScalarProperty Name="Renk" ColumnName="Renk" />
+          <ScalarProperty Name="Irkı" ColumnName="Irkı" />
+          <ScalarProperty Name="Doğum_tarihi" ColumnName="Doğum tarihi" />
+          <ScalarProperty Name="Yaş" ColumnName="Yaş" />
+          <ScalarProperty Name="Doğum_ağırlığı" ColumnName="Doğum ağırlığı" />
+          <ScalarProperty Name="Otlak" ColumnName="Otlak" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

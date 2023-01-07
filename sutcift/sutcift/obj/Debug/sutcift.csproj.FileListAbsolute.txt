@@ -1,0 +1,316 @@
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\sutcift.exe.config
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\sutcift.exe
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\sutcift.pdb
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.Form1.resources
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.giris.resources
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.Properties.Resources.resources
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.csproj.GenerateResource.cache
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.exe.licenses
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.csproj.CopyComplete
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.exe
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.pdb
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.inekler.resources
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.sut_uretimi.resources
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.saglik_rapotu.resources
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.sut_satisi.resources
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.ırkı.resources
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.Finans.resources
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.Dashboard.resources
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\Guna.UI2.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\EntityFramework.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\EntityFramework.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.çalışanlar.resources
+C:\Users\ayoub\source\repos\sutcift\sutcift\obj\Debug\sutcift.csproj.AssemblyReference.cache
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\sutcift.exe.config
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\sutcift.exe
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\sutcift.pdb
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\EntityFramework.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\Guna.UI2.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\EntityFramework.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.csproj.AssemblyReference.cache
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.Dashboard.resources
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.Finans.resources
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.Form1.resources
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.giris.resources
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.inekler.resources
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.Properties.Resources.resources
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.saglik_rapotu.resources
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.sut_satisi.resources
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.sut_uretimi.resources
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.çalışanlar.resources
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.ırkı.resources
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.csproj.GenerateResource.cache
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.exe.licenses
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.csproj.CopyComplete
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.exe
+C:\Users\ayoub\Desktop\sutcift\sutcift\obj\Debug\sutcift.pdb
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\sutcift.exe.config
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\sutcift.exe
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\sutcift.pdb
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\EntityFramework.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\Guna.UI2.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\EntityFramework.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.csproj.AssemblyReference.cache
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.Dashboard.resources
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.Finans.resources
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.Form1.resources
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.giris.resources
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.inekler.resources
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.Properties.Resources.resources
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.saglik_rapotu.resources
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.sut_satisi.resources
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.sut_uretimi.resources
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.çalışanlar.resources
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.ırkı.resources
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.csproj.GenerateResource.cache
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.exe.licenses
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.csproj.CoreCompileInputs.cache
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.csproj.CopyComplete
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.exe
+C:\Users\AYOOB\Downloads\194410825 Ayoob Ali Farhad\sutcift\sutcift\obj\Debug\sutcift.pdb

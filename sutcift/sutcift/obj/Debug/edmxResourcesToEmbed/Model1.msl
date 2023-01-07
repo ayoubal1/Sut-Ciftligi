@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_SUTModelStoreContainer" CdmEntityContainer="DB_SUTEntities2">
+    <EntitySetMapping Name="Tb_Çalışanlar">
+      <EntityTypeMapping TypeName="DB_SUTModel.Tb_Çalışanlar">
+        <MappingFragment StoreEntitySet="Tb_Çalışanlar">
+          <ScalarProperty Name="ÇaİD" ColumnName="ÇaİD" />
+          <ScalarProperty Name="Adı" ColumnName="Adı" />
+          <ScalarProperty Name="Doğumtarihi" ColumnName="Doğumtarihi" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+          <ScalarProperty Name="Şifre" ColumnName="Şifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tb_Gelirler">
+      <EntityTypeMapping TypeName="DB_SUTModel.Tb_Gelirler">
+        <MappingFragment StoreEntitySet="Tb_Gelirler">
+          <ScalarProperty Name="GelİD" ColumnName="GelİD" />
+          <ScalarProperty Name="Tarihi" ColumnName="Tarihi" />
+          <ScalarProperty Name="Tür" ColumnName="Tür" />
+          <ScalarProperty Name="Tutar" ColumnName="Tutar" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tb_Harcamalar">
+      <EntityTypeMapping TypeName="DB_SUTModel.Tb_Harcamalar">
+        <MappingFragment StoreEntitySet="Tb_Harcamalar">
+          <ScalarProperty Name="HarİD" ColumnName="HarİD" />
+          <ScalarProperty Name="Tarihi" ColumnName="Tarihi" />
+          <ScalarProperty Name="Maksat" ColumnName="Maksat" />
+          <ScalarProperty Name="Tutar" ColumnName="Tutar" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tb_ırkı">
+      <EntityTypeMapping TypeName="DB_SUTModel.Tb_ırkı">
+        <MappingFragment StoreEntitySet="Tb_ırkı">
+          <ScalarProperty Name="ırİD" ColumnName="ırİD" />
+          <ScalarProperty Name="kızgınlıktar" ColumnName="kızgınlıktar" />
+          <ScalarProperty Name="cinstar" ColumnName="cinstar" />
+          <ScalarProperty Name="inekİD" ColumnName="inekİD" />
+          <ScalarProperty Name="inekAdı" ColumnName="inekAdı" />
+          <ScalarProperty Name="gebeliktar" ColumnName="gebeliktar" />
+          <ScalarProperty Name="beklenentar" ColumnName="beklenentar" />
+          <ScalarProperty Name="doğumtar" ColumnName="doğumtar" />
+          <ScalarProperty Name="inekyaş" ColumnName="inekyaş" />
+          <ScalarProperty Name="uyaılar" ColumnName="uyaılar" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tb_inek">
+      <EntityTypeMapping TypeName="DB_SUTModel.Tb_inek">
+        <MappingFragment StoreEntitySet="Tb_inek">
+          <ScalarProperty Name="İnİD" ColumnName="İnİD" />
+          <ScalarProperty Name="İnekAdı" ColumnName="İnekAdı" />
+          <ScalarProperty Name="Kulak_etiketi" ColumnName="Kulak etiketi" />
+          <ScalarProperty Name="Renk" ColumnName="Renk" />
+          <ScalarProperty Name="Irkı" ColumnName="Irkı" />
+          <ScalarProperty Name="Doğum_tarihi" ColumnName="Doğum tarihi" />
+          <ScalarProperty Name="Yaş" ColumnName="Yaş" />
+          <ScalarProperty Name="Doğum_ağırlığı" ColumnName="Doğum ağırlığı" />
+          <ScalarProperty Name="Otlak" ColumnName="Otlak" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tb_Sağlık">
+      <EntityTypeMapping TypeName="DB_SUTModel.Tb_Sağlık">
+        <MappingFragment StoreEntitySet="Tb_Sağlık">
+          <ScalarProperty Name="RapİD" ColumnName="RapİD" />
+          <ScalarProperty Name="İnekİD" ColumnName="İnekİD" />
+          <ScalarProperty Name="İnekAdı" ColumnName="İnekAdı" />
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+          <ScalarProperty Name="Teşhis" ColumnName="Teşhis" />
+          <ScalarProperty Name="Tedavi" ColumnName="Tedavi" />
+          <ScalarProperty Name="Maliyeti" ColumnName="Maliyeti" />
+          <ScalarProperty Name="VeterinAdı" ColumnName="VeterinAdı" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tb_Satışı">
+      <EntityTypeMapping TypeName="DB_SUTModel.Tb_Satışı">
+        <MappingFragment StoreEntitySet="Tb_Satışı">
+          <ScalarProperty Name="SatİD" ColumnName="SatİD" />
+          <ScalarProperty Name="Tarihi" ColumnName="Tarihi" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+          <ScalarProperty Name="MüşteriAdı" ColumnName="MüşteriAdı" />
+          <ScalarProperty Name="MüşteriNo" ColumnName="MüşteriNo" />
+          <ScalarProperty Name="Miktar" ColumnName="Miktar" />
+          <ScalarProperty Name="Toplam" ColumnName="Toplam" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tb_Sut">
+      <EntityTypeMapping TypeName="DB_SUTModel.Tb_Sut">
+        <MappingFragment StoreEntitySet="Tb_Sut">
+          <ScalarProperty Name="SütİD" ColumnName="SütİD" />
+          <ScalarProperty Name="İnekİD" ColumnName="İnekİD" />
+          <ScalarProperty Name="İnekAdı" ColumnName="İnekAdı" />
+          <ScalarProperty Name="SabahSütü" ColumnName="SabahSütü" />
+          <ScalarProperty Name="ÖğlenSütü" ColumnName="ÖğlenSütü" />
+          <ScalarProperty Name="AkşamSütü" ColumnName="AkşamSütü" />
+          <ScalarProperty Name="Toplam" ColumnName="Toplam" />
+          <ScalarProperty Name="Tarihi" ColumnName="Tarihi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_SUTModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Tb_Çalışanlar">
+    <Key>
+      <PropertyRef Name="ÇaİD" />
+    </Key>
+    <Property Name="ÇaİD" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Adı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Doğumtarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Cinsiyet" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Adres" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Şifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tb_Gelirler">
+    <Key>
+      <PropertyRef Name="GelİD" />
+    </Key>
+    <Property Name="GelİD" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Tarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Tür" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Tutar" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Tb_Harcamalar">
+    <Key>
+      <PropertyRef Name="HarİD" />
+    </Key>
+    <Property Name="HarİD" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Tarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Maksat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Tutar" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Tb_ırkı">
+    <Key>
+      <PropertyRef Name="ırİD" />
+    </Key>
+    <Property Name="ırİD" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kızgınlıktar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="cinstar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="inekİD" Type="Int32" />
+    <Property Name="inekAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="gebeliktar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="beklenentar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="doğumtar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="inekyaş" Type="Int32" />
+    <Property Name="uyaılar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tb_inek" Relationship="Self.FK_Tb_ırkı_Tb_inek" FromRole="Tb_ırkı" ToRole="Tb_inek" />
+  </EntityType>
+  <EntityType Name="Tb_inek">
+    <Key>
+      <PropertyRef Name="İnİD" />
+    </Key>
+    <Property Name="İnİD" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="İnekAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Kulak_etiketi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Renk" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Irkı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Doğum_tarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Yaş" Type="Int32" />
+    <Property Name="Doğum_ağırlığı" Type="Int32" />
+    <Property Name="Otlak" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tb_ırkı" Relationship="Self.FK_Tb_ırkı_Tb_inek" FromRole="Tb_inek" ToRole="Tb_ırkı" />
+    <NavigationProperty Name="Tb_Sağlık" Relationship="Self.FK_Tb_Sağlık_Tb_inek" FromRole="Tb_inek" ToRole="Tb_Sağlık" />
+    <NavigationProperty Name="Tb_Sut" Relationship="Self.FK_Tb_Sut_Tb_inek" FromRole="Tb_inek" ToRole="Tb_Sut" />
+  </EntityType>
+  <EntityType Name="Tb_Sağlık">
+    <Key>
+      <PropertyRef Name="RapİD" />
+    </Key>
+    <Property Name="RapİD" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="İnekİD" Type="Int32" />
+    <Property Name="İnekAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Durum" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Teşhis" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Tedavi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Maliyeti" Type="Int32" />
+    <Property Name="VeterinAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tb_inek" Relationship="Self.FK_Tb_Sağlık_Tb_inek" FromRole="Tb_Sağlık" ToRole="Tb_inek" />
+  </EntityType>
+  <EntityType Name="Tb_Satışı">
+    <Key>
+      <PropertyRef Name="SatİD" />
+    </Key>
+    <Property Name="SatİD" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Tarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyat" Type="Int32" Nullable="false" />
+    <Property Name="MüşteriAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MüşteriNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Miktar" Type="Int32" Nullable="false" />
+    <Property Name="Toplam" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Tb_Sut">
+    <Key>
+      <PropertyRef Name="SütİD" />
+    </Key>
+    <Property Name="SütİD" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="İnekİD" Type="Int32" />
+    <Property Name="İnekAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SabahSütü" Type="Int32" />
+    <Property Name="ÖğlenSütü" Type="Int32" />
+    <Property Name="AkşamSütü" Type="Int32" />
+    <Property Name="Toplam" Type="Int32" />
+    <Property Name="Tarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tb_inek" Relationship="Self.FK_Tb_Sut_Tb_inek" FromRole="Tb_Sut" ToRole="Tb_inek" />
+  </EntityType>
+  <Association Name="FK_Tb_ırkı_Tb_inek">
+    <End Role="Tb_inek" Type="Self.Tb_inek" Multiplicity="0..1" />
+    <End Role="Tb_ırkı" Type="Self.Tb_ırkı" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tb_inek">
+        <PropertyRef Name="İnİD" />
+      </Principal>
+      <Dependent Role="Tb_ırkı">
+        <PropertyRef Name="inekİD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tb_Sağlık_Tb_inek">
+    <End Role="Tb_inek" Type="Self.Tb_inek" Multiplicity="0..1" />
+    <End Role="Tb_Sağlık" Type="Self.Tb_Sağlık" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tb_inek">
+        <PropertyRef Name="İnİD" />
+      </Principal>
+      <Dependent Role="Tb_Sağlık">
+        <PropertyRef Name="İnekİD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tb_Sut_Tb_inek">
+    <End Role="Tb_inek" Type="Self.Tb_inek" Multiplicity="0..1" />
+    <End Role="Tb_Sut" Type="Self.Tb_Sut" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tb_inek">
+        <PropertyRef Name="İnİD" />
+      </Principal>
+      <Dependent Role="Tb_Sut">
+        <PropertyRef Name="İnekİD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB_SUTEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Tb_Çalışanlar" EntityType="Self.Tb_Çalışanlar" />
+    <EntitySet Name="Tb_Gelirler" EntityType="Self.Tb_Gelirler" />
+    <EntitySet Name="Tb_Harcamalar" EntityType="Self.Tb_Harcamalar" />
+    <EntitySet Name="Tb_ırkı" EntityType="Self.Tb_ırkı" />
+    <EntitySet Name="Tb_inek" EntityType="Self.Tb_inek" />
+    <EntitySet Name="Tb_Sağlık" EntityType="Self.Tb_Sağlık" />
+    <EntitySet Name="Tb_Satışı" EntityType="Self.Tb_Satışı" />
+    <EntitySet Name="Tb_Sut" EntityType="Self.Tb_Sut" />
+    <AssociationSet Name="FK_Tb_ırkı_Tb_inek" Association="Self.FK_Tb_ırkı_Tb_inek">
+      <End Role="Tb_inek" EntitySet="Tb_inek" />
+      <End Role="Tb_ırkı" EntitySet="Tb_ırkı" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tb_Sağlık_Tb_inek" Association="Self.FK_Tb_Sağlık_Tb_inek">
+      <End Role="Tb_inek" EntitySet="Tb_inek" />
+      <End Role="Tb_Sağlık" EntitySet="Tb_Sağlık" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tb_Sut_Tb_inek" Association="Self.FK_Tb_Sut_Tb_inek">
+      <End Role="Tb_inek" EntitySet="Tb_inek" />
+      <End Role="Tb_Sut" EntitySet="Tb_Sut" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
